@@ -43,8 +43,7 @@ For base integer instructions there are broadly 3 types of of such registers:
 
 ![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/0ff682c2-c236-43a6-aa2d-03b0f3913f74)
 
-## List of all open source tool used
-|Name of Tool|Application / Usage|
+
 |:---:|:---:|
 |![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/c4620dcc-f73c-4497-a13c-108afc586378)|![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/5eb3cc2c-b7ad-4812-af79-4b508c9971ea)|
 
