@@ -27,7 +27,25 @@ RISC V architecture tell the how c language code will convert into instruction s
 
 On This day, we devloped deep into the lower layers on how the higher layer instructions in c are translated to machine understandable codes. Just like how application program interface (API) is used by application programs to access the standard libraries, an application binary interface or system call interface is utilised hardware resources . The ISA is inherently divided into two parts: User & System ISA and User ISA the latter is available to the user directly by system calls.
 ### Now, how does the ABI access the hardware resources?
-
 - It uses different registers(32 in number) which are each of width XLEN = 32 bit for RV32 (~XLEN = 64 for RV64) . On a higher level of abstraction these registers are accessed by their respective ABI names.
+
+For base integer instructions there are broadly 3 types of of such registers:
+- I-type : For instructions having immediate values as operands.
+- R-type : For instructions having only registers as operands.
+- S-type : For instructions used for storing operations.
+
+
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/50f7c3e9-6763-4190-84bb-aa34bba4ca6e)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/8c11a442-f4f0-4762-8a8f-6e444315166a)
+
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/4b2c7366-2fa7-4653-8c1f-40c35d3ddd48)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/2a540952-6328-4bb6-9102-3a671f6c4112)
+
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/0ff682c2-c236-43a6-aa2d-03b0f3913f74)
+
+## List of all open source tool used
+|Name of Tool|Application / Usage|
+|:---:|:---:|
+|![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/c4620dcc-f73c-4497-a13c-108afc586378)|![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/5eb3cc2c-b7ad-4812-af79-4b508c9971ea)|
 
 
