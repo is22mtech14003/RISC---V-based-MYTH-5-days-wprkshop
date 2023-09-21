@@ -44,7 +44,25 @@ For base integer instructions there are broadly 3 types of of such registers:
 ![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/0ff682c2-c236-43a6-aa2d-03b0f3913f74)
 
 
-|:---:|:---:|
-|![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/c4620dcc-f73c-4497-a13c-108afc586378)|![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/5eb3cc2c-b7ad-4812-af79-4b508c9971ea)|
+
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/c4620dcc-f73c-4497-a13c-108afc586378)     
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/5eb3cc2c-b7ad-4812-af79-4b508c9971ea)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/8d35677f-56cb-4582-ada2-89ed1ef15fd0)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/025c84d3-d7d1-4dad-a542-8d9fdb2fadfe)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/e7275461-a620-43be-b804-e3ca63be8f2e)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/8312e6d6-ac28-49c3-9a6e-d84da2efb15d)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/7a9540b5-d09a-40c6-8854-65f6415fd228)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/2e56d089-26c5-4253-b822-6b2f42cbec1b)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/60937ec3-42bd-4374-93b1-ff0c1554f78e)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/2fbea364-cb67-4594-8e11-5c7c40856569)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/a68bdb5a-7826-4c0f-82b8-ebd64c0e7eaf)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/0e1d8420-451a-4611-87c2-44be1209f5a5)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/969ec64c-c9e6-4c7e-a56d-7ffc5125bfe5)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/92fe9899-8dc6-42e0-b740-39fc99320b3c)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/7a7e05bf-8e11-4c5c-aa05-b05765548053)
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/12171d55-81c3-4942-b389-e21212bf34be)
+
+![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/187bdab9-6ee3-4409-9c5e-2938fe5d6fa9)
+
 
 
