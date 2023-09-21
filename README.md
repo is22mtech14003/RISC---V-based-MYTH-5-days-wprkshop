@@ -21,4 +21,13 @@ RISC V architecture tell the how c language code will convert into instruction s
 ![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/6832477a-d07a-4d4f-8c63-f444baa1fe57)
 ![image](https://github.com/is22mtech14003/RISC---V-based-MYTH-5-days-wprkshop/assets/120499567/d5a1094e-7b66-4740-ba95-fa272e044cc8)
 
+# Day 2
+
+# Aplication binary interface and basic verification flow
+
+On This day, we devloped deep into the lower layers on how the higher layer instructions in c are translated to machine understandable codes. Just like how application program interface (API) is used by application programs to access the standard libraries, an application binary interface or system call interface is utilised hardware resources . The ISA is inherently divided into two parts: User & System ISA and User ISA the latter is available to the user directly by system calls.
+### Now, how does the ABI access the hardware resources?
+
+- It uses different registers(32 in number) which are each of width XLEN = 32 bit for RV32 (~XLEN = 64 for RV64) . On a higher level of abstraction these registers are accessed by their respective ABI names.
+
 
